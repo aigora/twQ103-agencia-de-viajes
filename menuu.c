@@ -35,12 +35,12 @@ int main()
 	scanf("%c",&opcion);
 	fflush(stdin);
 	
-    switch(opcion)//Esto no puede quedar así, cambiarlo antes de subirlo a github
+    switch(opcion)
 	{
 		case 'S':
 		{
 		
-			printf("Escriba su contraseña:\n");
+			printf("Escriba su contraseÃ±a:\n");
 			scanf("%s",Contrasena );
 			gets(Contrasena);
 			
