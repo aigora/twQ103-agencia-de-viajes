@@ -1,6 +1,6 @@
-# Título del trabajo
+# ATRAPALO
 
-Descripción breve del proyecto a realizar (2-3 frases).
+El trabajo es una agencia de viajes en la cual podrás realizar un vuelo a algún país de Europa.
 
 ## Integrantes del equipo
 
